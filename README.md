@@ -1,7 +1,7 @@
 ## GitHub-Hello-World
 GitHub Git Commands Git Desktop Basics Installation, Setup Commands and Working
 
-### Elish Consulting.com
+### [ElishConsulting.com] (www.elishconsulting.com)
 ELISH.IO provide full software development, training and support facilities for progressive web apps, desktop software, ERP Implementations including HR, HCM, Finance and Supply chain management.
 We develop custom mobile apps, Big Data, Artificial intelligence, machine learning and deep learning tools and libraries for enterprise, and for all kind of mobile & IOT devices.
 For any questions or queries, please drop an email to
@@ -15,7 +15,7 @@ contact@elishconsulting.com
 | ## Config: | |
 | git config --global user.name "Elish Consulting" | |
 | git config --global user.email elish@elishconsulting.com | |
-| Init or Clone New Repository: | |
+| ## Init or Clone New Repository: | |
 | git init | Initialize a new Repository |
 | git clone https://github.com/elishconsulting/Git-Hello-World.git | Clone an Existing Repository |
 | ## Status: | |
