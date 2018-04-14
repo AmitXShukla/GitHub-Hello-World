@@ -7,6 +7,16 @@ We develop custom mobile apps, Big Data, Artificial intelligence, machine learni
 For any questions or queries, please drop an email to
 contact@elishconsulting.com
 
+### Installation
+[Desktop version] (https://desktop.github.com/)
+
+[Command Line] (https://git-scm.com/downloads)
+
+[Git Documentation] (https://git-scm.com/doc)
+
+[Git Explore] (https://github.com/explore)
+
+
 ### GitHub WorkFlow
 ![Alt text](GitHub_workflow.png?raw=true "GitHub WorkFlow")
 
