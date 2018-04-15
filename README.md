@@ -20,8 +20,8 @@ For any questions or queries, please open an issue or leave comments here.
 | Command | Description |
 | --- | --- |
 | ## Config: | |
-| git config --global user.name "Elish Consulting" | |
-| git config --global user.email elish@elishconsulting.com | |
+| git config --global user.name "Amit Shukla" | |
+| git config --global user.email amit@elishconsulting.com | |
 | ## Init or Clone New Repository: | |
 | git init | Initialize a new Repository |
 | git clone https://github.com/elishconsulting/Git-Hello-World.git | Clone an Existing Repository |
