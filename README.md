@@ -1,4 +1,4 @@
-
+\
 ## GitHub-Hello-World
 GitHub Git Commands Git Desktop Basics Installation and Commands
 
@@ -17,7 +17,7 @@ For any questions or queries, please open an issue or leave comments here.
 ### Update Windows Environment Variables
 PATH -> C:\amit.io\Program\PortableGit\cmd (Path to Git CMD Exe) 
 
-vscode -> Settings -> git.path = "C:\amit.io\Program\PortableGit\cmd"
+vscode -> Settings -> git.path = "C:\\amit.io\\Program\\PortableGit\\cmd"
 
 
 ### GitHub WorkFlow
