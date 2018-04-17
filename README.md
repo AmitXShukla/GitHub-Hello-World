@@ -29,7 +29,7 @@ vscode -> Settings -> git.path = "C:\\\amit.io\\\Program\\PortableGit\\\cmd"
 | git config --global user.email amit@elishconsulting.com | |
 | ## Init or Clone New Repository: | |
 | git init | Initialize a new Repository |
-| git clone https://github.com/elishconsulting/Git-Hello-World.git | Clone an Existing Repository |
+| git clone https://github.com/AmitXShukla/Git-Hello-World.git | Clone an Existing Repository |
 | ## Status: | |
 | git status	| Check status |
 | git add <file_name_without_angle_brackets> | Add a file from working to staging area |
