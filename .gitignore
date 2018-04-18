@@ -1,6 +1,8 @@
+TEST
 # Node rules:
 ## Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
+**.html
 
 ## Dependency directory
 ## Commenting this out is preferred by some people, see
