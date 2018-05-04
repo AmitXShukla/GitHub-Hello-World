@@ -2,6 +2,8 @@
 TEST 2
 GitHub Git Commands Git Desktop Basics Installation and Commands
 
+[Click here for Video Tutorials !](https://www.youtube.com/watch?v=HUkgfgJlLoM&list=PLp0TENYyY8lFMOKZ9CSWto-BizmCyokib)
+
 For any questions or queries, please open an issue or leave comments here.
 
 ### Installation
@@ -21,7 +23,27 @@ vscode -> Settings -> git.path = "C:\\\amit.io\\\Program\\PortableGit\\\cmd"
 
 
 ### GitHub WorkFlow
+This diagram is a simple GITHUB workflow. Working directory on left is a directory where you keep all your code files. 
+Once you initialize GIT on your local directory, GIT creates a compressed database where all your file changes are recorded. When you are done making changes to the file, you need to add this file to staging area. And further when your file is ready, you commit the file to a local repository. 
+Remember, Local repository is a final commit to your code with latest changes on it, and finally you run git push to publish this to a remote repository. 
+This one complete life cycle of code changes are recorded in one flow, which is called branch. 
+For some reason, if you wish to experiment your file with more changes without losing code to your first file, you should create a new branch and then make changes to it.
+After you are good with your changes, you can always merge your change or keep those commit in separate branches as per your requirement. 
+One last item to understand here is, similar to pushing your committed code to files remote repository you can pull it back from remote to local repository and then can start making changes. 
+
 ![Alt text](GitHub_workflow.png?raw=true "GitHub WorkFlow")
+
+### Git Pages
+[GitHub Pages] (https://pages.github.com)
+
+At present it only supports static files hosting like HTML, JavaScript , CSS etc. to showcase your personal project, blog or organization website.
+In future, I am hoping GitHub will provide tools to host server side code from github repositories.
+However, you can still use a number of cloud services to host your server side code directly from github.
+
+### Git GCloud Deployement
+*** update this section
+
+### Git Commands
 
 | Command | Description |
 | --- | --- |
